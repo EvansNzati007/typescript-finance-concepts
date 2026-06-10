@@ -1,7 +1,6 @@
 # 💰 TypeScript Finance Concepts
 
-Concepts TypeScript appliqués au domaine financier — exemples concrets issus
-de la réalité du développement de plateformes fintech en Afrique de l'Ouest.
+Concepts TypeScript appliqués au domaine financier — patterns de conception, algorithmique, et bonnes pratiques.
 
 > Chaque module est autonome, commenté et directement exécutable.
 
