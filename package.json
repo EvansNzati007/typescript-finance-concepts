@@ -1,0 +1,16 @@
+{
+  "name": "typescript-finance-concepts",
+  "version": "1.0.0",
+  "description": "Concepts TypeScript appliqués au domaine financier — POO, Design Patterns, Algorithmique",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node-dev --respawn src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "ts-node-dev": "^2.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
